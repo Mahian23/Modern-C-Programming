@@ -34,7 +34,7 @@ int main (void)
     printf("Total bill peices: %d\n", jacksons + hamiltons + lincolns + washingtons);
     printf("$20 bills: %d\n$10 bills: %d\n$ 5 bills: %d\n$ 1 bills: %d\n", jacksons, hamiltons, lincolns, washingtons);
   
-    //reryen 0;       In the world of machines, mistake means you're removed from the system but not erased. So, shhhh//
+    //reryen 0;       In the world of machines, mistake means you're removed from the system but not erased. So, shhhh!//
     return 0;
 
 }
